@@ -1,0 +1,14 @@
+# Maven
+target/
+pom.xml.tag
+*.class
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
